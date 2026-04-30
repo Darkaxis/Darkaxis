@@ -18,12 +18,12 @@ Welcome to my GitHub! I am a graduating Information Technology student at Bukidn
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Aubie's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Aubie's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkaxis&show_icons=true&theme=radical" alt="Aubie's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkaxis&layout=compact&theme=radical" alt="Aubie's Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Aubie's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Darkaxis&theme=radical" alt="Aubie's GitHub Streak" />
 </div>
 
 ## 🛠️ Tech Stack & Skills

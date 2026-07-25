@@ -60,22 +60,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Darkaxis&theme=radical" alt="Aubie's GitHub Streak" />
 </div>
-
-## 🛠️ Tech Stack & Skills
-
-**Backend & Architecture**
-* Laravel (v10 & v11)
-* PHP
-* RESTful APIs
-
-**Frontend Ecosystem**
-* React & Vite
-* Inertia.js
-* Material UI (MUI)
-
-**Cybersecurity**
-* Web Exploitation & Reverse Engineering
-* Digital Forensics & CTF Competitions
-* Penetration Testing & Vulnerability Research
-* Security Auditing 
-* OSINT

@@ -276,7 +276,7 @@ def render(mode, stats):
 
 if __name__ == "__main__":
     if not TOKEN:
-        print("Skipping real fetch due to missing token, using dummy data for demonstration.")
+        print("Skipping real fetch due to missing token, using random data for demonstration.")
         stats = {
             "followers": 24, "repos": 30, "contributed": 5, "stars": 128, 
             "commits": 542, "loc": 124567, "loc_add": 102456, "loc_del": 22111

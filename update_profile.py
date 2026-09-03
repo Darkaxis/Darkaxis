@@ -241,7 +241,7 @@ def info_lines(s):
         kv("Education", "Bukidnon State University"),
         kv("Stack.Backend", "Node.js, Laravel, PHP"),
         kv("Stack.Frontend", "Next.js, React, Vite, Inertia.js"),
-        kv("Security.Focus", "Pen Testing, Vulnerability Research, OSINT"),
+        kv("Security.Focus", "Pentesting, Vulnerability Research, OSINT"),
         kv("Awards", "Hack4Gov 2025 Finals, Programmer of the Year"),
         [],
         rule("Contact & Links"),
